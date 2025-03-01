@@ -1,0 +1,20 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "2025/03/01 lab 3 af",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wijeboy/Lab3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wijeboy/Lab3/issues"
+  },
+  "homepage": "https://github.com/Wijeboy/Lab3#readme"
+}
